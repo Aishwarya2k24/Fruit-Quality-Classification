@@ -1,0 +1,1 @@
+This repository contains the code for training a deep learning model to classify the quality of fruits—specifically bananas, apples, and oranges—based on attributes like freshness and rottenness. The model used is VGG16, a pre-trained convolutional neural network, fine-tuned to perform fruit quality classification.
