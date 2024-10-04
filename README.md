@@ -4,6 +4,12 @@ This repository contains the code for training a deep learning model to classify
 
 Key Features
 Model Architecture: Based on VGG16, with custom modifications for fruit classification.
+
+
 Training Data: Utilizes a dataset of fruit images labeled with freshness, rottenness, and calorie content.
+
+
 Model Training: The model is trained to classify the fruit type and assess quality.
+
+
 Loss and Accuracy Visualization: During training, graphs for loss and accuracy are generated to evaluate model performance.
